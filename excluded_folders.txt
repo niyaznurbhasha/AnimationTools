@@ -1,0 +1,13 @@
+assets/
+__pycache__/
+walking.fbm/
+pretrained_models/
+training-stylegan/
+post2_intermediate_vids/
+audio-reactive/
+yolov5/
+dogs_blending/
+post2/
+blender/
+upscale_mesh_block/
+motion_targeting/
